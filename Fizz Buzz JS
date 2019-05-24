@@ -1,0 +1,6 @@
+Open in Python Editor echo "# Fizz-Buzz" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Barbaratp15/Fizz-Buzz.git
+git push -u origin master
